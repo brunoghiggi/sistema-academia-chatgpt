@@ -1,1 +1,1 @@
-[INSIRA AQUI O CONTEÚDO DE src/App.jsx DO DOCUMENTO]
+<user's App.jsx content>
